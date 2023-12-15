@@ -13,6 +13,8 @@ switch(an)
 	break;
 	default: 
 		printf("assignment not exist\n");
+		
+	printf("Your Assignment is Done.");
 }
 return 0;
 }
